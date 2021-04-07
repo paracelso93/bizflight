@@ -15,6 +15,7 @@ public class PlaneController : MonoBehaviour
         slider.minValue = 0.0f;
         slider.maxValue = 40.0f;
         rigidbody = GetComponent<Rigidbody>();
+        slider.value = speed;
     }
 
     // Update is called once per frame
