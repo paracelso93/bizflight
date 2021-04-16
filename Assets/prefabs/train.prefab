@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4472715752010735652}
   - component: {fileID: 1757041081804638478}
   - component: {fileID: 8834058380764110104}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: train
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   - component: {fileID: 6204956912039271202}
   - component: {fileID: 6655387744395612145}
   - component: {fileID: 2701611313853702913}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 8865340744556092779}
   - component: {fileID: 8865340744556092789}
   - component: {fileID: 8865340744556092778}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
